@@ -1,0 +1,6 @@
+/* 9506405 - Jon B - 2/16/24 */
+.nav-social .fsNavLevel1 [href*="twitter"]:before {
+  font-family: 'fsIcomoon';
+  content: '\e939';
+  font-size: 15px;
+}
